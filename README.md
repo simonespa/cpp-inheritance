@@ -1,2 +1,2 @@
 # cpp-inheritance
-Inheritance test in C++
+This repo is a playground for inheritance in C++.
